@@ -1,0 +1,76 @@
+@media screen and (min-device-width: 350px) and (max-device-width: 768px) { 
+    .top-header{
+        display: none;
+    }
+    .header{
+        padding: 0px;
+    }
+    .menu-main{
+        padding-left: 0px;
+    }
+    .logo a img{
+        width: 44%;
+    }
+    .pb-0 {
+
+        top: -210px;
+    
+}
+.collection-banner .contain-banner h2{
+    font-size: 29px;
+} 
+.collection-banner .contain-banner {
+    align-items: center;
+    display: flex;
+    height: 100%;
+    padding-left: 70px;
+    padding-right: 70px;
+    position: absolute;
+    top: 0;
+    left: 40px;
+    width: 100%;
+}
+.collection-banner {
+
+    /* margin-top: 10px; */
+    margin: 20px;
+    position: relative;
+    top: -20px;
+}
+.pbk-0 {
+    padding-bottom: 0 !important;
+    position: relative;
+    top: -225px;
+}
+.form-group input{
+    position: relative;
+    right: 36px;
+    margin: 12px;
+}
+.footer-theme .sub-title h4{
+    font-size: 11px;
+}
+.collection-product-wrapper{
+    display: none;
+}
+.wrappers{
+    display: none;
+}
+.breadcrumb-section .page-title {
+    align-items: center;
+    display: flex;
+    height: 100%;
+    position: relative;
+    top: 20px;
+}
+.breadcrumb-section {
+    background-color: #f8f8f8;
+    padding: 17px 0;
+    margin-top: 10px;
+}
+ }
+
+/* tablet */
+@media screen and (min-device-width: 769px) and (max-device-width: 991px) { 
+
+}
